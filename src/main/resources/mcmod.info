@@ -1,11 +1,11 @@
 [
   {
     "modid": "${modid}",
-    "name": "Xample Mod",
-    "description": "A mod that is used as an example.",
+    "name": "Level Faker",
+    "description": "A mod that is used to fake how good you are!",
     "version": "${version}",
     "mcversion": "${mcversion}",
-    "url": "https://github.com/romangraef/Forge1.8.9Template/",
+    "url": "https://github.com/Tewxx/LevelFaker",
     "updateUrl": "",
     "authorList": [
       "You"
